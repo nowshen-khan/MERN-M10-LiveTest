@@ -1,4 +1,6 @@
-# O-M10-LiveTest
+# MERN-M10-LiveTest
+
+Full Stack Web Development with MERN 
 Module 10 Live Test
 
 মডিউল ১০ এর লাইভ টেস্ট
